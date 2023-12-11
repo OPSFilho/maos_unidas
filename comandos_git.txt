@@ -1,1 +1,6 @@
 releção de comandos para usar o git
+git init "comando git para iniciar o git"
+git config user.nane "informa o git que esta usando o git"
+gir config user.email "informa o email do usuario"
+git add --all "adicio todas a mudanças para serem coomitadas"
+git commit -m "e como se estivessemos preparando para ser salvo"
