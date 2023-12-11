@@ -1,1 +1,1 @@
-Frase criada para o primeiro commit com o vscode
+Frase escrita antes do merge
